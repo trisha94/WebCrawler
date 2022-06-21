@@ -22,7 +22,7 @@ Jinja2==2.10
 lxml==4.2.1
 MarkupSafe==1.0
 multidict==4.3.1
-numpy==1.14.5
+numpy==1.22.0
 parsel==1.4.0
 proxy==0.0.1
 public==1.0.3
